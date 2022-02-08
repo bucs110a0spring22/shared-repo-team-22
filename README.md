@@ -5,6 +5,6 @@
 
 ## Team Members
 
-* Team Member 1:
-* Team Member 2:
-* Team Member 3:
+* Team Member 1: Brian Seo
+* Team Member 2: David Allen
+* Team Member 3: Jiarong Jin
